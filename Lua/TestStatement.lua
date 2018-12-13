@@ -1,5 +1,5 @@
 
--- String, String, String
+-- params: String, String, String
 function TestStatement (a, b, c)
-  return (a .. b .. c) -- String
+  --eturn (a .. b .. c) -- String
 end
